@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\CAS\Desktop\hibernate &amp; jpa with spring boot\4.JPA and Hibernate in Depth"/>
+			<item value="C:\Users\CAS\Desktop\hibernate &amp; jpa with spring boot\2.Spring JDBC vs Spring DATA JPA"/>
+			<item value="C:\Users\CAS\Desktop\hibernate &amp; jpa with spring boot\1.Spring Boot Demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
